@@ -4,6 +4,11 @@
 
 The purpose of this analysis was to assist with determining lists of personnel that are either eligible to retire or eligible to participate in a mentorship program.
 
+## Table of contents:
+* [Resources](#resources)
+* [Results](#results)
+* [Summary](#summary)
+
 ## Resources:
 - PgAdmin 4
 - provided csv files of data.
