@@ -1,18 +1,23 @@
 # Pewlett-Hackard-Analysis
 
-The written analysis has the following:
-
 ## Overview of the analysis:
 
-The purpose...
+The purpose of this analysis was to assist with determining lists of personnel that are either eligible to retire or eligible to participate in a mentorship program.
+
+## Resources:
+- PgAdmin 4
+- provided csv files of data.
 
 ## Results:
 
 There is a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-- Major Point #1
-- Major Point #2
-- Major Point #3
-- Major Point #4
+1. Major Point #1
+2. Major Point #2
+3. Major Point #3
+4. Major Point #4
+
+[retiring_titles.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+![retiring_titles.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 
 ## Summary:
 
