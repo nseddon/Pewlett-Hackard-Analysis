@@ -20,7 +20,9 @@ The purpose of this analysis was to:
 ## Results:
 
 There is a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-1. Major Point #1
+1. The company will have a total 90,398 employees fit the eligibility requirements for retirement.  These numbers are broken down by Title in the table displayed below.
+![retiring_titles](https://user-images.githubusercontent.com/89038310/137605246-5b84ccb6-7c73-43bd-98b4-3b0ffd7ad72a.png)
+
 2. Major Point #2
 3. Major Point #3
 4. Major Point #4
