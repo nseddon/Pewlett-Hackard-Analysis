@@ -24,7 +24,9 @@ There is a bulleted list with four major points from the two analysis deliverabl
 
 ![retiring_titles](https://user-images.githubusercontent.com/89038310/137605246-5b84ccb6-7c73-43bd-98b4-3b0ffd7ad72a.png)
 
-2. Major Point #2
+2. The company will have a total of 1549 employees that are eligible to participate in a mentorship program.  The full list of all employees can be found here:
+[mentorship_eligibility.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
+
 3. Major Point #3
 4. Major Point #4
 
