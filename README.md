@@ -35,8 +35,8 @@ There is a bulleted list with four major points from the two analysis deliverabl
 - Employee has been in their current position since January 1, 1998.
 - Employee is currently in a position as an Engineer, Assistant Engineer, or Staff.
 - Code for the query presented below.
-
-'SELECT DISTINCT ON(e.emp_no) e.emp_no,
+```
+SELECT DISTINCT ON(e.emp_no) e.emp_no,
     e.first_name,
 	e.last_name,
 	e.birth_date,
@@ -53,7 +53,8 @@ WHERE (de.to_date = '9999-01-01')
 	AND (de.from_date < '1998-01-01')
 	AND (e.birth_date > '1955-12-31')
 	AND (t.title = 'Engineer' OR t.title = 'Staff' OR t.title = 'Assistant Engineer')
-ORDER BY e.emp_no;'
+ORDER BY e.emp_no;
+```
 
 ![retiring_titles](https://user-images.githubusercontent.com/89038310/137605246-5b84ccb6-7c73-43bd-98b4-3b0ffd7ad72a.png)
 ![promotion_eligible](https://user-images.githubusercontent.com/89038310/137605280-4d5fa61a-f6bf-4d6d-9732-f0da01202373.png)
