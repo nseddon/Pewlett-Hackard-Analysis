@@ -30,8 +30,10 @@ There is a bulleted list with four major points from the two analysis deliverabl
 
 ![retiring_titles](https://user-images.githubusercontent.com/89038310/137605246-5b84ccb6-7c73-43bd-98b4-3b0ffd7ad72a.png)
 ![promotion_eligible](https://user-images.githubusercontent.com/89038310/137605280-4d5fa61a-f6bf-4d6d-9732-f0da01202373.png)
+![mentorship_by_dept](https://user-images.githubusercontent.com/89038310/137605308-6ebf7679-4a75-411e-8be8-ac694e0e4e5a.png)
 
 
+https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_dept_counts.csv
 
 ## Summary:
 
