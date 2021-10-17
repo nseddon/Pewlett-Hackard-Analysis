@@ -11,6 +11,8 @@ The purpose of this analysis was to:
 ## Table of contents:
 * [Resources](#resources)
 * [Results](#results)
+    * [Finding 1](#analysisfinding1)
+    * [Finding 2](#analysisfinding2)
 * [Summary](#summary)
 
 ## Resources:
@@ -19,7 +21,6 @@ The purpose of this analysis was to:
 
 ## Results:
 
-There is a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 ### Analysis Finding 1: 
 The company will experience a significant reduction in staffing due to retirement potential.  A full list of retirement eligible employees can be found here:
 [retirement_titles.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv)
@@ -71,13 +72,6 @@ The company will not have employees at every level, in every department eligible
 ![mentorship_by_dept](https://user-images.githubusercontent.com/89038310/137605308-6ebf7679-4a75-411e-8be8-ac694e0e4e5a.png)
 
 As can be seen, several departments do not have personnel in every staff level available to mentor new hired personnel.  The company may need to seek qualified candidates for positions that can quickly become versed in business practices, in order to then provide mentorship to additional new personnel.
-
-
-
-![retiring_titles](https://user-images.githubusercontent.com/89038310/137605246-5b84ccb6-7c73-43bd-98b4-3b0ffd7ad72a.png)
-
-
-https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_dept_counts.csv
 
 ## Summary:
 
