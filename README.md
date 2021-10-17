@@ -62,15 +62,18 @@ WHERE (de.to_date = '9999-01-01')
 	AND (t.title = 'Engineer' OR t.title = 'Staff' OR t.title = 'Assistant Engineer')
 ORDER BY e.emp_no;
 ```
+The results of the above query are presented below, and the file can be accessed here: [promotion_titles.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/promotion_titles.csv)
+![promotion_eligible](https://user-images.githubusercontent.com/89038310/137605280-4d5fa61a-f6bf-4d6d-9732-f0da01202373.png)
+
+
 ### Analysis Finding 6:
-The company will not have employees at every level, in every department eligible for the mentorship program.  A snippet of the data can be seen below, and the full file can be accessed here: [mentorship_dept_counts](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_dept_counts.csv)
+The company will not have employees at every level, in every department eligible for the mentorship program.  A snippet of the data can be seen below, and the full file can be accessed here: [mentorship_dept_counts.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_dept_counts.csv)
 ![mentorship_by_dept](https://user-images.githubusercontent.com/89038310/137605308-6ebf7679-4a75-411e-8be8-ac694e0e4e5a.png)
 As can be seen, several departments do not have personnel in every staff level available to mentor new hired personnel.
 
 
 
 ![retiring_titles](https://user-images.githubusercontent.com/89038310/137605246-5b84ccb6-7c73-43bd-98b4-3b0ffd7ad72a.png)
-![promotion_eligible](https://user-images.githubusercontent.com/89038310/137605280-4d5fa61a-f6bf-4d6d-9732-f0da01202373.png)
 
 
 https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_dept_counts.csv
