@@ -11,8 +11,6 @@ The purpose of this analysis was to:
 ## Table of contents:
 * [Resources](#resources)
 * [Results](#results)
-    * [Finding 1](#finding1)
-    * [Finding 2](#finding2)
 * [Summary](#summary)
 
 ## Resources:
@@ -74,9 +72,10 @@ The company will not have employees at every level, in every department eligible
 As can be seen, several departments do not have personnel in every staff level available to mentor new hired personnel.  The company may need to seek qualified candidates for positions that can quickly become versed in business practices, in order to then provide mentorship to additional new personnel.
 
 ## Summary:
-
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight.
-
-- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+The analysis has determined:
+- The company has 90,398 employees who are eligible to retire.
+- Breakdown of roles that will need to be filled, either through hiring or promotion are as follow:
+![retiring_titles](https://user-images.githubusercontent.com/89038310/137605246-5b84ccb6-7c73-43bd-98b4-3b0ffd7ad72a.png)
+- The company has 1,549 employees that qualify to participate in a mentorship program.
+- The company does not have enough employees qualified for mentorship to successfully train the next generation.  Additional hiring of skilled personnel will be critical to ensure performance levels.  Snippet of mentorship by position by department shown below.
+![mentorship_by_dept](https://user-images.githubusercontent.com/89038310/137605308-6ebf7679-4a75-411e-8be8-ac694e0e4e5a.png)
