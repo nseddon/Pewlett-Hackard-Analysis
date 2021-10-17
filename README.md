@@ -11,8 +11,8 @@ The purpose of this analysis was to:
 ## Table of contents:
 * [Resources](#resources)
 * [Results](#results)
-    * [Finding 1](#analysisfinding1)
-    * [Finding 2](#analysisfinding2)
+    * [Finding 1](#finding1)
+    * [Finding 2](#finding2)
 * [Summary](#summary)
 
 ## Resources:
