@@ -79,3 +79,12 @@ The analysis has determined:
 - The company has 1,549 employees that qualify to participate in a mentorship program.
 - The company does not have enough employees qualified for mentorship to successfully train the next generation.  Additional hiring of skilled personnel will be critical to ensure performance levels.  Snippet of mentorship by position by department shown below.
 ![mentorship_by_dept](https://user-images.githubusercontent.com/89038310/137605308-6ebf7679-4a75-411e-8be8-ac694e0e4e5a.png)
+- The company, with the listed promotion requirements from Finding 5, will have the following vacancies by title:
+    - Senior Engineer: 0 vacancies (can be filled by promotable Engineers)
+    - Senior Staff: 0 vacancies (can be filled by promotable Staff)
+    - Manager: 0 vacancies (can be filled by promotable Staff)
+    - Technique Leader: 0 vacancies (can be filled by promotable Staff)
+    - Engineer: 39411 vacancies (after attrition and promotions)
+    - Assistant Engineer: 5986 vacancies (after attrition and promotions)
+    - Staff: 45001 vacancies (after attrition and promotions)
+- It is recommended that additional parameters be considered to determine personnel eligible for the mentorship program, after promotions occur.  This may reduce the need for hiring of external candidates for senior positions, allowing more promotion from within where possible.
