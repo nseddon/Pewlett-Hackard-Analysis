@@ -69,7 +69,8 @@ The results of the above query are presented below, and the file can be accessed
 ### Analysis Finding 6:
 The company will not have employees at every level, in every department eligible for the mentorship program.  A snippet of the data can be seen below, and the full file can be accessed here: [mentorship_dept_counts.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_dept_counts.csv)
 ![mentorship_by_dept](https://user-images.githubusercontent.com/89038310/137605308-6ebf7679-4a75-411e-8be8-ac694e0e4e5a.png)
-As can be seen, several departments do not have personnel in every staff level available to mentor new hired personnel.
+
+As can be seen, several departments do not have personnel in every staff level available to mentor new hired personnel.  The company may need to seek qualified candidates for positions that can quickly become versed in business practices, in order to then provide mentorship to additional new personnel.
 
 
 
