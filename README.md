@@ -20,17 +20,21 @@ The purpose of this analysis was to:
 ## Results:
 
 There is a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-1. The company will experience a significant reduction in staffing due to retirement potential.  A full list of retirement eligible employees can be found here:
+### Analysis Finding 1: 
+The company will experience a significant reduction in staffing due to retirement potential.  A full list of retirement eligible employees can be found here:
 [retirement_titles.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv)
 
-2. The company will have a total of 1549 employees that are eligible to participate in a mentorship program.  The full list of all employees can be found here:
+### Analysis Finding 2:
+The company will have a total of 1549 employees that are eligible to participate in a mentorship program.  The full list of all employees can be found here:
 [mentorship_eligibility.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
 
-3. The company will have a total 90,398 employees fit the eligibility requirements for retirement.  These numbers are broken down by Title in the table displayed below.  The file may be accessed here: [retiring_titles.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+### Analysis Finding 3:
+The company will have a total 90,398 employees fit the eligibility requirements for retirement.  These numbers are broken down by Title in the table displayed below.  The file may be accessed here: [retiring_titles.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 
 ![retiring_titles](https://user-images.githubusercontent.com/89038310/137605246-5b84ccb6-7c73-43bd-98b4-3b0ffd7ad72a.png)
 
-4. Employees eligible for promotion were determined using the following parameters:
+### Analysis Finding 4:
+Employees eligible for promotion were determined using the following parameters:
 - Employee is currently employed.
 - Employee has been in their current position since January 1, 1998.
 - Employee is currently in a position as an Engineer, Assistant Engineer, or Staff.
