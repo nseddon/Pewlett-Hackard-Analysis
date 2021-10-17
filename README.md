@@ -34,6 +34,9 @@ The company will have a total 90,398 employees fit the eligibility requirements 
 ![retiring_titles](https://user-images.githubusercontent.com/89038310/137605246-5b84ccb6-7c73-43bd-98b4-3b0ffd7ad72a.png)
 
 ### Analysis Finding 4:
+The company will have a significant loss of the workforce across all levels of employment.  Determination of positions that can be filled via promotions will be critical to ensure company productivity.  Additional query is recommended.
+
+### Analysis Finding 5:
 Employees eligible for promotion were determined using the following parameters:
 - Employee is currently employed.
 - Employee has been in their current position since January 1, 1998.
@@ -59,9 +62,10 @@ WHERE (de.to_date = '9999-01-01')
 	AND (t.title = 'Engineer' OR t.title = 'Staff' OR t.title = 'Assistant Engineer')
 ORDER BY e.emp_no;
 ```
-### Analysis Finding 5:
+### Analysis Finding 6:
 The company will not have employees at every level, in every department eligible for the mentorship program.  A snippet of the data can be seen below, and the full file can be accessed here: [mentorship_dept_counts](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_dept_counts.csv)
 ![mentorship_by_dept](https://user-images.githubusercontent.com/89038310/137605308-6ebf7679-4a75-411e-8be8-ac694e0e4e5a.png)
+As can be seen, several departments do not have personnel in every staff level available to mentor new hired personnel.
 
 
 
