@@ -2,7 +2,11 @@
 
 ## Overview of the analysis:
 
-The purpose of this analysis was to assist with determining lists of personnel that are either eligible to retire or eligible to participate in a mentorship program.
+The purpose of this analysis was to:
+- Determine a list of personnel that are eligible to retire.
+- Determine a list of personnel that are eligible to participate in a mentorship program.
+- Calculate the number of positions affected by the retiring personnel.
+- Develop options for the future impact of the retiring personnel. 
 
 ## Table of contents:
 * [Resources](#resources)
@@ -23,6 +27,9 @@ There is a bulleted list with four major points from the two analysis deliverabl
 
 [retiring_titles.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 ![retiring_titles.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+
+![image](https://user-images.githubusercontent.com/89038310/137605246-5b84ccb6-7c73-43bd-98b4-3b0ffd7ad72a.png)
+
 
 ## Summary:
 
