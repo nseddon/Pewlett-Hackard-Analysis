@@ -29,7 +29,7 @@ There is a bulleted list with four major points from the two analysis deliverabl
 ![retiring_titles.csv](https://github.com/nseddon/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 
 ![retiring_titles](https://user-images.githubusercontent.com/89038310/137605246-5b84ccb6-7c73-43bd-98b4-3b0ffd7ad72a.png)
-![promotion_eligible](https://user-images.githubusercontent.com/89038310/137605270-c81bb241-4665-4e8e-9fa2-1f84a3dcc4cf.png)
+![promotion_eligible](https://user-images.githubusercontent.com/89038310/137605280-4d5fa61a-f6bf-4d6d-9732-f0da01202373.png)
 
 
 
